@@ -4,34 +4,34 @@
 
 ### Français
 
-- [Élèves](https://demo.educadhoc.fr/reader/textbook/9782401049666/fxl/Page_1?feature=freemium)
-- [Profs](https://demo.educadhoc.fr/reader/textbook/9782401049673/fxl?feature=demo&demoMode=extract)
+- [Élèves (complet)](https://demo.educadhoc.fr/reader/textbook/9782401049666/fxl/Page_1?feature=freemium)
+- [Profs (± extrait)](https://demo.educadhoc.fr/reader/textbook/9782401049673/fxl?feature=demo&demoMode=extract)
 
 ### Histoire
 
-- [Élèves](biblio.nathan.fr/demo/9782091194196)
-- [Profs](biblio.nathan.fr/demo/9782091193809) (extrait)
+- [Élèves (extrait)](https://biblio.nathan.fr/demo/9782091194196)
+- [Profs (extrait)](https://biblio.nathan.fr/demo/9782091193809)
 
 ### Géographie
 
-- [Élèves](https://biblio.nathan.fr/demo/9782091194097)
-- [Profs](https://biblio.nathan.fr/demo/9782091193694) (extrait)
+- [Élèves (extrait)](https://biblio.nathan.fr/demo/9782091194097)
+- [Profs (extrait)](https://biblio.nathan.fr/demo/9782091193694)
 
 ### ES
-- [Lelivrescolaire.fr](https://www.lelivrescolaire.fr/manuels/enseignement-scientifique-1re-2019)
+- [Lelivrescolaire.fr (complet)](https://www.lelivrescolaire.fr/manuels/enseignement-scientifique-1re-2019)
 
 ## Spécialités
 
 ### Mathématiques
 
-- [Élèves](https://demo.educadhoc.fr/reader/textbook/9782017102106/fxl?feature=freemium)
-- [Profs](https://demo.educadhoc.fr/reader/textbook/9782017102113/fxl?feature=demo&demoMode=extract) (retirer &demoMode=extract)
+- [Élèves (complet)](https://demo.educadhoc.fr/reader/textbook/9782017102106/fxl?feature=freemium)
+- [Profs (± extrait)](https://demo.educadhoc.fr/reader/textbook/9782017102113/fxl?feature=demo&demoMode=extract)
 - [Calaméo](https://www.calameo.com/books/0048229536e9731b3481e)
 
 ### Physique-Chimie
 
-- [Élèves](https://biblio.nathan.fr/demo/9782091193991)
-- [Profs](https://biblio.nathan.fr/demo/9782091193571) (extrait)
+- [Élèves (extrait)](https://biblio.nathan.fr/demo/9782091193991)
+- [Profs (extrait)](https://biblio.nathan.fr/demo/9782091193571)
 
 ### HGGSP
 
@@ -48,12 +48,12 @@
 ### SES
 
 - [Élèves (complet)](https://demo.educadhoc.fr/reader/textbook/9782017092681/fxl/id?feature=freemium)
-- [Profs (extrait)](https://demo.educadhoc.fr/reader/textbook/9782017092698/fxl/id?feature=demo&demoMode=extract)
+- [Profs (± extrait)](https://demo.educadhoc.fr/reader/textbook/9782017092698/fxl/id?feature=demo&demoMode=extract)
 - [Calaméo (spécimen, complet)](https://www.calameo.com/read/00482295367666f1c792f)
 
 ### SVT
 
-- [Élèves (complet)](https://biblio.nathan.fr/demo/9782091194028)
+- [Élèves (extrait)](https://biblio.nathan.fr/demo/9782091194028)
 - [Profs (extrait)](https://biblio.nathan.fr/demo/9782091193601)
 
 ## Langues
@@ -61,13 +61,13 @@
 ### Allemand
 
 - [Élèves (extrait)](https://biblio.editions-bordas.fr/demo/9782047388952)
-- [Profs](https://biblio.editions-bordas.fr/demo/9782047388990)
+- [Profs (extrait)](https://biblio.editions-bordas.fr/demo/9782047388990)
 
 ### Anglais
 
-[Lelivrescolaire.fr](https://www.lelivrescolaire.fr/manuels/anglais-1re-2019)
+- [Lelivrescolaire.fr (complet)](https://www.lelivrescolaire.fr/manuels/anglais-1re-2019)
 
 ### Espagnol
 
-- [Élèves](https://biblio.nathan.fr/demo/9782091193908)
-- [Profs](https://biblio.nathan.fr/demo/9782091193489) (extrait)
+- [Élèves (extrait)](https://biblio.nathan.fr/demo/9782091193908)
+- [Profs (extrait)](https://biblio.nathan.fr/demo/9782091193489)
