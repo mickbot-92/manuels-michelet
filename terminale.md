@@ -20,7 +20,7 @@
 
 ### Enseignement scientifique
 
-* [Élèves (extrait](https://biblio.nathan.fr/demo/9782091317632)
+* [Élèves (extrait)](https://biblio.nathan.fr/demo/9782091317632)
 * [Profs (extrait)](https://biblio.nathan.fr/demo/9782091317700)
 
 ## Spécialités
@@ -44,9 +44,9 @@
 
 ### HLP
 
-- [Élèves (complet)](https://demo.educadhoc.fr/reader/textbook/9782016289914/fxl/\_id?feature=freemium)
-- [Profs (extrait)](https://demo.educadhoc.fr/reader/textbook/9782016289921/fxl/\_id?feature=demo&demoMode=extract)
-- [Calaméo (complet](https://www.calameo.com/read/00482295384534dc39b59)
+- [Élèves (complet)](https://demo.educadhoc.fr/reader/textbook/9782016289914/fxl/id?feature=freemium)
+- [Profs (extrait)](https://demo.educadhoc.fr/reader/textbook/9782016289921/fxl/id?feature=demo&demoMode=extract)
+- [Calaméo (complet)](https://www.calameo.com/read/00482295384534dc39b59)
 
 ### SES
 
